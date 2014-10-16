@@ -6,7 +6,12 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
+<<<<<<< HEAD
     <sprite>sprites\sprite0</sprite>
+=======
+    <sprite>sprites\spr_testMainSprite</sprite>
+    <sprite>sprites\spr_testNumberTwo</sprite>
+>>>>>>> origin/master
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
